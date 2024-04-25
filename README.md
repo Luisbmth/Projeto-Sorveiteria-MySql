@@ -1,1 +1,0 @@
-Projeto Fornecedor em Mysql - Luís Felipe e João Marcelo
